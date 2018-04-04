@@ -1,4 +1,4 @@
-# wwdc2018
+# WWDC2018
 My WWDC 2018 Scholarship Playground
 
 
