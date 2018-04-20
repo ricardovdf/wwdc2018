@@ -11,3 +11,5 @@ My WWDC 2018 Scholarship Playground
  - Hourglass⏳: Adjust the time mode and choose: `.realTime` to see how time really works and how slow it can be. Choose between `.byMinutes`, `.byHours`, `.byDays`, `.byMonths` and `.byYears` to see time in another perspective (and if you cannot wait for a whole year to see all the hourglasses full).
  
  - Time Calculator⏱: Change the time mode to `.tapToAdd` and tap inside any hourglass to add time and see how many time will be added to the others hourglasses. You can see how many minutes are in one month or try to tap your age and get to know how many hours have you lived so far 😱. (The Hourglasses are automatically refreshed once you add time again)
+ 
+ ![Example](https://github.com/ricardovdf/CollectionViewAndAutoLayout/blob/master/Screen%20Shot%202018-04-18%20at%2015.14.40.png)
