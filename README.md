@@ -1,6 +1,5 @@
 # WWDC2018
-My WWDC 2018 Scholarship Playground
-
+My WWDC 2018 Scholarship Playground [:tv:](https://www.youtube.com/watch?v=-KsAopkgNXM)
 
  ## The Hourglass ⏳ and Time Calculator ⏱
  On this playground, you can have fun with **Time**! It works in two ways, as an **Hourglass** where you can see the time passing by and understand how seconds, minutes, hours, days, months and years are related, and as a **Time Calculator** where you can tap inside any hourglass to add time and get to know how many seconds are in one year for example.
